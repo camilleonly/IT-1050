@@ -1,0 +1,6 @@
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\TEMP\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
